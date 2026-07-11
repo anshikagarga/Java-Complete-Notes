@@ -402,7 +402,7 @@ Many high-performance enterprise systems are built using Java.
 
 ⬅ Previous: *None (Start Here)*
 
-➡ Next: **02-JVM-JRE-JDK.md**
+➡ Next: **02-First-Java-Program.md**
 
 Understanding the JVM, JRE, and JDK is essential before writing and executing Java programs.
 
