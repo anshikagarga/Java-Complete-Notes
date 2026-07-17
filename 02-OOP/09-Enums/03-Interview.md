@@ -455,12 +455,16 @@ You have completed **Chapter 20: Enums**.
 
 # 🚀 Next Chapter
 
-➡️ **02-OOP.md**
+➡️ **21-Exception-Handling.md**
 
 ### Topics Covered
 
-- Introduction to OOPS
-- Types of OOPS
+- Introduction to Exceptions
+- Types of Exceptions
+- `try`, `catch`, `finally`
+- `throw` and `throws`
+- Custom Exceptions
+- Checked vs Unchecked Exceptions
 - Interview Questions
 - MCQs
 - Practice Problems
